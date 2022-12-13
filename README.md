@@ -1,33 +1,40 @@
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Rajat Singh</h1> -->
-<h1 align="center">Hi , I'm Rajat Singh</h1>
-<h3 align="center">A passionate Full Stack  Developer and currently, I'm focusing on improving my knowledge of Data Structure and algorithms. </h3>
+### Hey there, I'm Rajat Singh:)
 
-## 🚀 Languages and Tools:
+<a href="https://www.linkedin.com/in/rajat-singh-50853a194/">
+  <img align="left" alt="Rajat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://github.com/rajatsinghchauhan">
+  <img align="left" alt="Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png#gh-light-mode-only" />
+</a>
+<!-- <a href="https://Rajat.medium.com/">
+  <img align="left" alt="Medium" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png#gh-light-mode-only" />
+</a>
+<a href="https://www.wattpad.com/user/rajat">
+  <img align="left" alt="Wattpad" width="22px" src="https://i.pinimg.com/474x/3e/9b/2a/3e9b2a723bd1e516348c20e0c9f51554.jpg" />
+</a> -->
+<a href="https://twitter.com/_not_nice__">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.usbrandcolors.com/images/logos/twitter-logo.svg" />
+</a>
 
-<p align="left">
+<br>
+<br>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/fa314a/c-plus-plus-logo.png"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img  src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+I'm [Rajat Singh](https://www.linkedin.com/in/rajat-singh-50853a194/), a prefinal year student pursuing IPG-M.Tech degree at IIIT Gwalior. My interest lies in Problem Solving which I utilize to build web applications. I'm a Full-Stack Developer, who spend most of his time starring at his pc.
 
-</p>
+<hr>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+**✅ I like to work on:**
+
+|                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                        |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| React.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                                     |
+| Node.js                                                                                                                                                                                                                                                                                                                    |                                                                                                               <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">                                                                                                               |
+| MongoDB, MySQL                                                                                                                                                                                                                                                                                                             |                                                                      <img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">                                                                       |
+| C++, JS                                                                                                                                                                                                                                                                                                                    |                                        <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">                                         |
+| Heroku                                                                                                                                                                                                                                                                                                                     |                                                                                                                                            <img height="30" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">                                                                                                                                            |
+| Git, Bash and Postman                                                                                                                                                                                                                                                                                                      | <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"> <img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> |
+
 <br/>
-
-<p align="center">
-    <a href="https://github.com/rajatsinghchauhan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rajat Singh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsinghchauhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 ## 📊 My Github Stats
 
@@ -38,26 +45,25 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<br/>
+<hr>
 
-<!-- <a href="https://github.com/rajatsinghchauhan/github-readme-activity-graph"><img alt="Rajat Singh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajatsinghchauhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+**✅ My Coding Profiles:**
+<br>
 
-<br/>
-<br/>
+<a href="https://leetcode.com/theycallmecalm/">
+  <img align="left" alt="Leetcode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+</a>
 
-## 🙋‍♂️ Connect with me:
+<!-- <a href="https://auth.geeksforgeeks.org/user/savi1311/profile">
+  <img align="left" alt="GeeksForGeeks" width="30px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" />
+</a>
 
-<p align="center">
+<a href="https://www.codechef.com/users/savi_1311">
+  <img align="left" alt="Codechef" width="30px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" />
+</a> -->
+<br>
 
-<a href = "https://www.linkedin.com/in/rajat-singh-50853a194/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-<!-- <a href = "https://www.instagram.com/rajatsinghchauhan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
-
-</p>
-
-## ❤ Views and Followers
-
+<hr>
 <a href="https://github.com/rajatsinghchauhan/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rajatsinghchauhan">
 </a>
-<a href="https://github.com/rajatsinghchauhan?tab=followers"><img src="https://img.shields.io/github/followers/rajatsinghchauhan?label=Followers&style=social" alt="GitHub Badge"></a>
