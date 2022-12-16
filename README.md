@@ -7,7 +7,7 @@
   <img align="left" alt="Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png#gh-light-mode-only" />
 </a>
 <a href="https://leetcode.com/theycallmecalm/">
-  <img align="left" alt="Leetcode" width="22px" src="https://img.shields.io/badge/-Leetcode-F0E68C?style=flat-square&logo=LeetCode&logoColor=black" />
+  <img align="left" alt="Leetcode" width="22px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />
 </a>
 <!-- <a href="https://Rajat.medium.com/">
   <img align="left" alt="Medium" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png#gh-light-mode-only" />
