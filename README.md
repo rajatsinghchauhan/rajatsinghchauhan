@@ -39,7 +39,7 @@ I'm [Rajat Singh](https://www.linkedin.com/in/rajat-singh-50853a194/), a prefina
 
 <br/>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/rajatsinghchauhan/github-readme-stats"><img alt="Rajat Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajatsinghchauhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -48,7 +48,7 @@ I'm [Rajat Singh](https://www.linkedin.com/in/rajat-singh-50853a194/), a prefina
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<hr>
+<hr> -->
 
 **✅ My Coding Profiles:**
 <br>
