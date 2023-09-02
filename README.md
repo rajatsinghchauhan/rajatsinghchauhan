@@ -1,8 +1,6 @@
 ### Hey there, I'm Rajat Singh:)
 
-<a href="https://www.linkedin.com/in/rajat-singh-50853a194/">
-  <img align="left" alt="Rajat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <a href="https://github.com/rajatsinghchauhan">
   <img align="left" alt="Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png#gh-light-mode-only" />
 </a>
