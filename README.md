@@ -1,14 +1,21 @@
 # Rajat Singh
 
 **Software Engineer | Data Structure and Algorithm | Core C.S Fundamentals**
-
+<!-- 
 📧 Email: [rajatchauhan2502@gmail.com](mailto:rajatchauhan2502@gmail.com)  
 🌐 Portfolio: [rajatsinghchauhan.github.io](https://rajatsinghchauhan.github.io)  
 💻 Leetcode: [theycallmecalm](https://leetcode.com/theycallmecalm)  
 🔗 LinkedIn: [rajat-singh-50853a194](https://www.linkedin.com/in/rajat-singh-50853a194/)  
-🐙 GitHub: [rajatsinghchauhan](https://github.com/rajatsinghchauhan)
+🐙 GitHub: [rajatsinghchauhan](https://github.com/rajatsinghchauhan) -->
 
----
+<p >
+  <a href="mailto:rajatchauhan2502@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://rajatsinghchauhan.github.io"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/rajat-singh-50853a194/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/theycallmecalm/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://github.com/rajatsinghchauhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
 
 ### 👨‍💻 About Me
 
