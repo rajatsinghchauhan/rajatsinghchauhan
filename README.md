@@ -26,7 +26,7 @@ I am passionate about solving real-world problems through technology and constan
   - Reduced infrastructure costs by creating a local environment using VirtualBox.
 
 - **Software Engineering Intern @ Wingify (December 2023 - March 2024)**
-  - Developed an in-house Content Delivery Network (CDN) serving 10k+ requests per second per node.
+  - Worked on an in-house Content Delivery Network (CDN) serving 10k+ requests per second per node.
   - Optimized legacy code by 20% and implemented data residency using Bloom filters, benefiting 8k+ B2B customers.
 
 - **Software Engineering Intern @ Travel Creators (January 2023 - April 2023)**
@@ -64,7 +64,7 @@ I am passionate about solving real-world problems through technology and constan
 
 - **[Reinforcement Learning for Cognitive Radio Applications](https://ieeexplore.ieee.org/document/10503303)**
   - Implemented Multiplayer Multi-armed Bandit Algorithm in a cognitive radio system.
-  - Published and presented at the 2024 IEEE International Conference.
+  - Published and presented at the 2024 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI).
 
 ---
 
