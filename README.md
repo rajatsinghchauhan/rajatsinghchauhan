@@ -1,6 +1,5 @@
 # Rajat Singh
-
-**Software Engineer | Data Structure and Algorithm | Core C.S Fundamentals**
+**Software Engineer | Backend & Systems | DSA | CS Fundamentals**
 <!-- 
 📧 Email: [rajatchauhan2502@gmail.com](mailto:rajatchauhan2502@gmail.com)  
 🌐 Portfolio: [rajatsinghchauhan.github.io](https://rajatsinghchauhan.github.io)  
@@ -18,14 +17,37 @@
 
 
 ### 👨‍💻 About Me
+Hi, I’m **Rajat Singh**, a **Software Engineer** passionate about building scalable backend systems and product engineering in **0 → 100 journeys**.
 
-I am a recent graduate from the Indian Institute of Information Technology, Gwalior, with a Dual Degree (B.Tech + M.Tech) in IT. With a solid foundation in computer science fundamentals, I have hands-on experience in developing scalable and high-performance applications.
+I’ve worked across **enterprise and high-scale product teams**, including **Alteryx, Zscaler, Wingify, and Travel Creators**, and I’m now starting my next chapter at **DataHub (India)** as an early engineering hire.
 
-I am passionate about solving real-world problems through technology and constantly strive to learn and adapt to new tools and methodologies. My work spans across various domains, including e-commerce, networking, and content delivery, where I have contributed to projects that impact millions of users daily.
+I enjoy solving engineering problems around:
+- **Backend systems & APIs**
+- **Performance optimization & caching**
+- **Workflow engines / execution layers**
+- Strong fundamentals in **DSA + Core CS (OS, DBMS, CN)**
+
 
 ---
 
 ### 💼 Experience
+
+- **Software Engineer @ DataHub (2025 - Present)**
+  - Joined **DataHub India** as the **4th Engineering Hire**, working in a fast-paced startup-style product engineering environment.
+  - Contributing to the **0 → 100 journey**, owning features end-to-end with a focus on execution, quality, and scalability.
+  - **Tech Stack:** Python, FastAPI
+
+- **Software Engineer @ Alteryx, Inc. (October 2024 - Present)**
+  - **CDFs Generation:** Worked on development of a middle layer in Alteryx Cloud to translate workflow XMLs into CDFs,
+    an internal SQL-like language, ensuring compatibility across various data engines like Databricks, Snowflake and
+    impacting **50+ B2B customers**.
+  - **Dynamic Tools:** Enhanced the grammar of an internal tooling language to support dynamic, data-reactive features (e.g.,
+    wildcard builder, except, replace), enabling **6+ new Alteryx Designer Cloud tools** with advanced reasoning capabilities.
+  - **Browser level Caching:** Implemented browser-level caching with DuckDB, cutting execution time from **4000ms to 300ms**,
+    designed multiple cache-deletion strategies (LRU, hard refresh, and custom) to ensure data freshness and reliability.
+  - **4x Alteryx Hackathon Winner:** Won **3 consecutive Innovation Day hackathons** in the last three quarters, delivering
+    impactful POCs in AI-driven workflows, large-scale anomaly detection, and ML-powered log debugging.
+  - **Tech Stack:** TypeScript, Node.js, Python
 
 - **Software Development Intern @ Zscaler, Inc. (April 2024 - Present)**
   - Worked on latency-based server swapping for Zscaler Client Connector, used by over 40 million users.
@@ -47,10 +69,10 @@ I am passionate about solving real-world problems through technology and constan
 
 ### 🛠️ Technical Skills
 
-- **Languages:** C++, Python, JavaScript, Typescript, C, HTML, CSS, SQL, GraphQL
-- **Frameworks & Libraries:** React.js, Node.js, Express.js, pytest, Redux, Bootstrap
+- **Languages:** C++, Python, Java, Typescript, C, HTML, CSS, SQL, GraphQL
+- **Frameworks & Libraries:**  SprinBoot, Node.js, Express.js
 - **Databases:** MongoDB, MySQL
-- **Developer Tools:** Git, AWS EC2, Github, RestAPI, VS Code, GCS, Stripe, Stitch.money Payment Gateway
+- **Developer Tools:** Git, AWS EC2, Github, RestAPI, VS Code, GCS
 
 ---
 
