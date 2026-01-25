@@ -45,7 +45,7 @@ I enjoy solving engineering problems around:
     wildcard builder, except, replace), enabling **6+ new Alteryx Designer Cloud tools** with advanced reasoning capabilities.
   - **Browser level Caching:** Implemented browser-level caching with DuckDB, cutting execution time from **4000ms to 300ms**,
     designed multiple cache-deletion strategies (LRU, hard refresh, and custom) to ensure data freshness and reliability.
-  - **4x Alteryx Hackathon Winner:** Won **3 consecutive Innovation Day hackathons** in the last three quarters, delivering
+  - **4x Alteryx Hackathon Winner:** Won **4 consecutive Innovation Day hackathons** in the last three quarters, delivering
     impactful POCs in AI-driven workflows, large-scale anomaly detection, and ML-powered log debugging.
   - **Tech Stack:** TypeScript, Node.js, Python
 
