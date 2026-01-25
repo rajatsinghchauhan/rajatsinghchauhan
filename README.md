@@ -37,7 +37,7 @@ I enjoy solving engineering problems around:
   - Contributing to the **0 → 100 journey**, owning features end-to-end with a focus on execution, quality, and scalability.
   - **Tech Stack:** Python, FastAPI
 
-- **Software Engineer @ Alteryx, Inc. (October 2024 - Present)**
+- **Software Engineer @ Alteryx, Inc. (October 2024 - January 2026)**
   - **CDFs Generation:** Worked on development of a middle layer in Alteryx Cloud to translate workflow XMLs into CDFs,
     an internal SQL-like language, ensuring compatibility across various data engines like Databricks, Snowflake and
     impacting **50+ B2B customers**.
@@ -49,7 +49,7 @@ I enjoy solving engineering problems around:
     impactful POCs in AI-driven workflows, large-scale anomaly detection, and ML-powered log debugging.
   - **Tech Stack:** TypeScript, Node.js, Python
 
-- **Software Development Intern @ Zscaler, Inc. (April 2024 - Present)**
+- **Software Development Intern @ Zscaler, Inc. (April 2024 - September 2024)**
   - Worked on latency-based server swapping for Zscaler Client Connector, used by over 40 million users.
   - Implemented Remote Desktop Protocol (RDP) Support via Zscaler Private Access, impacting 5M+ internet transactions daily.
   - Reduced infrastructure costs by creating a local environment using VirtualBox.
