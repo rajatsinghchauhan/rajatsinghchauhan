@@ -1,11 +1,12 @@
 # Rajat Singh
 **Software Engineer | Backend & Systems | DSA | CS Fundamentals**
 <!-- 
+🐙 GitHub:[rajatoss](https://github.com/rajatoss) 
 📧 Email: [rajatchauhan2502@gmail.com](mailto:rajatchauhan2502@gmail.com)  
 🌐 Portfolio: [rajatsinghchauhan.github.io](https://rajatsinghchauhan.github.io)  
 💻 Leetcode: [theycallmecalm](https://leetcode.com/theycallmecalm)  
 🔗 LinkedIn: [rajat-singh-50853a194](https://www.linkedin.com/in/rajat-singh-50853a194/)  
-🐙 GitHub: [rajatsinghchauhan](https://github.com/rajatsinghchauhan) -->
+-->
 
 <p >
   <a href="mailto:rajatchauhan2502@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
